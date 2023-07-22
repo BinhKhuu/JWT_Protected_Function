@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "aZa0F7YpMiRM4uWYLNJh98VTUXi2UC+jiNQJvxyTgiUL+g+o8iQC29B/klcTUydlZbdH4DW9B3NP1xYNBSsCTA==",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\Authentication\\SecuringFunctionsWithJWTBearer\\JWTSecureApp\\Application.Core\\Application.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Binh\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Binh\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\Binh\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\Binh\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\Binh\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

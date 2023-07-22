@@ -1,0 +1,12 @@
+D:\Learning\Authentication\SecuringFunctionsWithJWTBearer\JWTSecureApp\Application.Core\bin\Debug\net6.0\Application.Core.deps.json
+D:\Learning\Authentication\SecuringFunctionsWithJWTBearer\JWTSecureApp\Application.Core\bin\Debug\net6.0\Application.Core.dll
+D:\Learning\Authentication\SecuringFunctionsWithJWTBearer\JWTSecureApp\Application.Core\bin\Debug\net6.0\Application.Core.pdb
+D:\Learning\Authentication\SecuringFunctionsWithJWTBearer\JWTSecureApp\Application.Core\obj\Debug\net6.0\Application.Core.csproj.AssemblyReference.cache
+D:\Learning\Authentication\SecuringFunctionsWithJWTBearer\JWTSecureApp\Application.Core\obj\Debug\net6.0\Application.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Authentication\SecuringFunctionsWithJWTBearer\JWTSecureApp\Application.Core\obj\Debug\net6.0\Application.Core.AssemblyInfoInputs.cache
+D:\Learning\Authentication\SecuringFunctionsWithJWTBearer\JWTSecureApp\Application.Core\obj\Debug\net6.0\Application.Core.AssemblyInfo.cs
+D:\Learning\Authentication\SecuringFunctionsWithJWTBearer\JWTSecureApp\Application.Core\obj\Debug\net6.0\Application.Core.csproj.CoreCompileInputs.cache
+D:\Learning\Authentication\SecuringFunctionsWithJWTBearer\JWTSecureApp\Application.Core\obj\Debug\net6.0\Application.Core.dll
+D:\Learning\Authentication\SecuringFunctionsWithJWTBearer\JWTSecureApp\Application.Core\obj\Debug\net6.0\refint\Application.Core.dll
+D:\Learning\Authentication\SecuringFunctionsWithJWTBearer\JWTSecureApp\Application.Core\obj\Debug\net6.0\Application.Core.pdb
+D:\Learning\Authentication\SecuringFunctionsWithJWTBearer\JWTSecureApp\Application.Core\obj\Debug\net6.0\ref\Application.Core.dll
